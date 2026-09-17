@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+.decor{
+    float:left;
+    width:calc((100% - 90px) / 4 );
+    margin-right:30px;
+    text-align: center;
+}
+.clrfix{
+    clear:both;
+}
+img{
+    width:100%;
+}
+h2{
+    margin-top:23px;
+}
+/*.collection{
+    text-align: center;
+
+}*/
+.margin_right_0{
+    margin-right:0;
+}

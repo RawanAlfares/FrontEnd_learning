@@ -1,0 +1,9 @@
+.service {
+  display: inline-block;
+  background-color: #F000AB;
+  width:calc(100%/3);
+  text-align: center;
+}
+.services{
+background-color: bisque;
+}
