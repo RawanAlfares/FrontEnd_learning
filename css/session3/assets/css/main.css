@@ -1,0 +1,37 @@
+/*Header*/
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 232.5px;
+}
+
+.list ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 60px;
+}
+.icon ul{
+    display: flex;
+  flex-wrap: wrap;
+  gap: 24px; 
+}
+.collection {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.decor {
+  width: calc((100% - 90px) / 4);
+  text-align: center;
+}
+.decor img {
+  width: 100%;
+}
+.decor h2 {
+  margin-top: 23px;
+}
+li {
+  list-style: none;
+  list-style-type: none;
+  color: black;
+}
